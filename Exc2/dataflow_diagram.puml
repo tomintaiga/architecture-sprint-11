@@ -1,0 +1,28 @@
+@startuml domain
+
+RECTANGLE "Головной офис" as HO
+RECTANGLE "Клиники" as Clinics
+RECTANGLE "ИИ-сервисы" as AI_Services
+RECTANGLE "Финтех-сервисы" as Fintech_Services
+RECTANGLE "Интеграционный слой" as Integration_Layer
+RECTANGLE "BI-сервисы" as BI_Services
+RECTANGLE "DWH" as DWH
+
+HO --> Clinics : Управление и координация
+Clinics --> AI_Services : Медицинские данные
+AI_Services --> Clinics : Аналитические отчеты и рекомендации
+Clinics --> Fintech_Services : Финансовые транзакции
+Fintech_Services --> Clinics : Обработка платежей
+AI_Services --> Fintech_Services : Финансовые данные для анализа
+Integration_Layer --> HO : Обмен данными
+Integration_Layer --> Clinics : Обмен данными
+Integration_Layer --> AI_Services : Обмен данными
+Integration_Layer --> Fintech_Services : Обмен данными
+Integration_Layer --> BI_Services : Обмен данными
+Integration_Layer --> DWH : Обмен данными
+BI_Services --> Clinics : Аналитические отчеты
+BI_Services --> HO : Аналитические отчеты
+DWH --> BI_Services : Данные для анализа
+DWH --> AI_Services : Данные для анализа
+
+@enduml
