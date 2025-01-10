@@ -1,0 +1,121 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.5 Chrome/126.0.6478.183 Electron/31.3.0 Safari/537.36" version="24.7.5">
+  <diagram name="Страница — 1" id="IeTorpy161Jmzt0HavBq">
+    <mxGraphModel dx="1781" dy="1843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FLz81D7HwueDxIbVB6VR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="120" width="120" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-2" value="Q1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-3" value="Q2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="120" width="120" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-5" value="Q3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="390" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="120" width="120" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-7" value="Q4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="120" width="120" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-9" value="Анализ текущей архитектуры" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="120" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-10" value="Определение доменов" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-11" value="Внедрение современных интеграционных решений" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="240" y="270" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-12" value="Обучение персонала" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="480" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-13" value="Оптимизация запросов в DWH" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="360" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-14" value="Обновление DWH" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="240" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-17" value="Рабочая группа&lt;div&gt;по архитектуре&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="130" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-18" value="Админы&lt;div&gt;и\или devops&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="270" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-19" value="Админы&lt;div&gt;и\или devops&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="400" width="140" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-20" value="Аналитики" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="335" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FLz81D7HwueDxIbVB6VR-21" target="FLz81D7HwueDxIbVB6VR-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-21" value="Анализ текущей архитектуру нужен для сбора и уточнения сведений.&lt;div&gt;Без этого этапа, нельзя составить план действий&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="110" y="-110" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FLz81D7HwueDxIbVB6VR-23" target="FLz81D7HwueDxIbVB6VR-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-23" value="Описание доменов и их границ необходимо, чтобы корректно, ожидаемо и понятно, разбить всю систему" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="400" y="-110" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="FLz81D7HwueDxIbVB6VR-25" target="FLz81D7HwueDxIbVB6VR-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FLz81D7HwueDxIbVB6VR-25" target="FLz81D7HwueDxIbVB6VR-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FLz81D7HwueDxIbVB6VR-25" target="FLz81D7HwueDxIbVB6VR-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FLz81D7HwueDxIbVB6VR-25" target="FLz81D7HwueDxIbVB6VR-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-25" value="Команды тут весьма условны, тк мы не знаем какие специалисты есть в организации.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Вообще, для планирования, очень важно знать какие ресурсы есть в наличии&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-370" y="20" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FLz81D7HwueDxIbVB6VR-30" target="FLz81D7HwueDxIbVB6VR-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-30" value="Нужно обновить интеграционную шину, чтобы избежать возможных угроз безопасности, а также, добавить новые возможности интеграции в будущем" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="650" y="-10" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FLz81D7HwueDxIbVB6VR-32" target="FLz81D7HwueDxIbVB6VR-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-32" value="При таком серьезном изменении в работе компании, стоит потратить время и провести обучение персонала. Это позволит быстрее перестроиться, совершать меньше ошибок, как следствие повысить эффективность бизнеса" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="830" y="325" width="330" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="FLz81D7HwueDxIbVB6VR-34" target="FLz81D7HwueDxIbVB6VR-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="FLz81D7HwueDxIbVB6VR-34" target="FLz81D7HwueDxIbVB6VR-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FLz81D7HwueDxIbVB6VR-34" value="Менять DWH будет слишком дорого, учитывая количество данных и кастомизаций. А вот обновить и оптимизировать - во первых, повысится скрость работы, во вторых будут закрыты какие-то уязвимости. Плюс, это не будет так болезненно для организации" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="210" y="720" width="360" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vrEaO4MIFwF8Gs70Dfkw-1" value="Развертывание Datalakehouse и витрин данных" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="530" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="vrEaO4MIFwF8Gs70Dfkw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vrEaO4MIFwF8Gs70Dfkw-2" target="vrEaO4MIFwF8Gs70Dfkw-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vrEaO4MIFwF8Gs70Dfkw-2" value="Вероятно, на подготовку витрин и отладку всего уйдет чуть больше времени, но тут вопрос к составу команды, которая будет этим заниматься" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="640" y="680" width="210" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

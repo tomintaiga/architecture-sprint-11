@@ -1,0 +1,140 @@
+{
+  "basePath": "/",
+  "baseUrl": "",
+  "editUrl": "https://github.dev/AOEpeople/techradar/blob/main/radar/{release}/{id}.md",
+  "logoFile": "logo.svg",
+  "jsFile": "",
+  "toggles": {
+    "showChart": true,
+    "showTagFilter": true,
+    "showQuadrantList": true,
+    "showEmptyRings": false
+  },
+  "sections": ["radar", "tags", "list"],
+  "colors": {
+    "foreground": "#fcf2e6",
+    "background": "#113521",
+    "highlight": "#d4a373",
+    "content": "#fff",
+    "text": "#575757",
+    "link": "#bc6c25",
+    "border": "rgba(255, 255, 255, 0.1)",
+    "tag": "rgba(255, 255, 255, 0.1)"
+  },
+  "quadrants": [
+    {
+      "id": "languages-and-frameworks",
+      "title": "Языки и фреймворки",
+      "description": "Подборка языков программирования и основных фреймворков для создания различных пользовательских программ.",
+      "color": "#a3b18a"
+    },
+    {
+      "id": "methods-and-patterns",
+      "title": "Методы и шаблоны",
+      "description": "Ключевые методы разработки программного обеспечения и шаблоны проектирования, охватывающие все, от непрерывной интеграции и тестирования до архитектуры.",
+      "color": "#588157"
+    },
+    {
+      "id": "platforms-and-operations",
+      "title": "Платформы и операции",
+      "description": "Технологии и инструменты для операций с программным обеспечением и инфраструктурой, включая платформы и сервисы для управления и масштабирования приложений.",
+      "color": "#3f633e"
+    },
+    {
+      "id": "tools",
+      "title": "Инструменты",
+      "description": "Разнообразные программные инструменты, от простых средств повышения производительности до комплексных проектных решений, удовлетворяющих различные потребности проектов.",
+      "color": "#40713f"
+    }
+  ],
+  "rings": [
+    {
+      "id": "adopt",
+      "title": "Принять",
+      "description": "",
+      "color": "#588157",
+      "radius": 0.5,
+      "strokeWidth": 5
+    },
+    {
+      "id": "trial",
+      "title": "Испытание",
+      "description": "",
+      "color": "#457b9d",
+      "radius": 0.69,
+      "strokeWidth": 3
+    },
+    {
+      "id": "assess",
+      "title": "Оценка",
+      "description": "",
+      "color": "#bc6c25",
+      "radius": 0.85,
+      "strokeWidth": 2
+    },
+    {
+      "id": "hold",
+      "title": "Удержание",
+      "description": "",
+      "color": "#d62828",
+      "radius": 1,
+      "strokeWidth": 0.75
+    }
+  ],
+  "flags": {
+    "new": {
+      "color": "#f1235a",
+      "title": "New",
+      "titleShort": "N",
+      "description": "Новое в этой версии"
+    },
+    "changed": {
+      "color": "#40a7d1",
+      "title": "Changed",
+      "titleShort": "C",
+      "description": "Недавно изменено"
+    },
+    "default": {
+      "description": "Без изменений"
+    }
+  },
+  "chart": {
+    "size": 800,
+    "blipSize": 12
+  },
+  "social": [
+    {
+      "href": "https://twitter.com/aoepeople",
+      "icon": "x"
+    },
+    {
+      "href": "https://www.linkedin.com/company/aoe",
+      "icon": "linkedIn"
+    },
+    {
+      "href": "https://www.xing.com/company/aoe",
+      "icon": "xing"
+    },
+    {
+      "href": "https://github.com/aoepeople",
+      "icon": "github"
+    }
+  ],
+  "imprint": "https://www.aoe.com/en/imprint.html",
+  "labels": {
+    "title": "Технологический радар",
+    "imprint": "Правовая информация",
+    "quadrant": "Квадрант",
+    "quadrantOverview": "Обзор квадрантов",
+    "zoomIn": "Увеличить",
+    "filterByTag": "Фильтр по тегу",
+    "footer": "Технологический радар — проект компании AOE GmbH. Вы можете создать свой собственный радар на основе этого открытого проекта.",
+    "notUpdated": "Этот элемент не обновлялся в последних трех версиях радара. Если он должен был появиться в одной из более поздних версий, есть вероятность, что он все еще актуален. Однако, если элемент датируется более ранним периодом, его актуальность могла уменьшиться, и наша текущая оценка может отличаться. К сожалению, наши возможности по регулярному пересмотру элементов из прошлых выпусков радара ограничены.",
+    "notFound": "404 - Страница не найдена",
+    "pageAbout": "Как использовать технологический радар AOE?",
+    "pageOverview": "Обзор технологий",
+    "pageSearch": "Поиск",
+    "searchPlaceholder": "Что вы ищете?",
+    "metaDescription": ""
+  }
+}
